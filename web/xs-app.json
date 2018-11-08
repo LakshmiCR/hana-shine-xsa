@@ -37,7 +37,7 @@
       "authenticationType": "xsuaa"
     },
     {
-      "source": "/sap/hana/democontent/epm/(.*)",
+      "source": "/sap/hana/democontent/epm/services/(.*)",
       "destination": "core-xsjs-backend"
     },
     {
